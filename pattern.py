@@ -6,7 +6,7 @@
 #print('roll no.:RKOC34B48')
 
 
-#pattern 1
+aur harshita kaisi ho
 def square(n):
 
     #n=int(input())
